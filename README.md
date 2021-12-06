@@ -9,8 +9,8 @@
 </br>
 <div>
 	<a href="https://github.com/Joaodcs"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaodcs&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaodcs&layout=compact&langs_count=16&theme=ayu-mirage"/>
+	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Joaodcs&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaodcs&layout=compact&langs_count=16&theme=ayu-mirage"/>
 </div></a>
 
 ##
