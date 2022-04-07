@@ -1,4 +1,4 @@
-### Oi! 👋 Eu sou o João Daniel
+### Hi! 👋 João Daniel here.
 
 📌 Brasília - DF, Brasil.
 
@@ -15,16 +15,16 @@
 
 ##
 
-Minhas principais tecnologias atualmente: <div style="display: inline_block"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="48px" width="48px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="48px" height="48px"/>
+What i know: <div style="display: inline_block"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="48px" width="48px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="48px" height="48px"/>
 <div>
 
-Estou estudando sobre essas tecnologias:</br>
+What i'm learning:</br>
  <div style="display: inline_block"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48px" heiht="48px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48px" height="48px"/>
   </div>
   
- Tecnologias as quais pretendo estudar:</br>
+ What i will learn:</br>
   <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48px" height="48px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48px" height="48px"/>
