@@ -23,8 +23,3 @@ What i'm learning:</br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48px" heiht="48px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48px" height="48px"/>
   </div>
-  
- What i will learn:</br>
-  <div style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48px" height="48px"/>
-  </div>
